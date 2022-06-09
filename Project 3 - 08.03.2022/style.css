@@ -1,0 +1,116 @@
+.menu {
+    text-decoration: none;
+    background-color: rgb(218, 213, 213);
+    color: #fff;
+    width: 100%;
+    max-width: 500px;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    height: 100vh;
+    left: 0;
+    overflow-y: auto;
+    transition: transform 0.2s;
+    border-radius: 58px;
+}
+
+.menu-link {
+    text-decoration: none;
+    font-size: xx-large;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    color: rgb(85, 107, 114);
+    border-radius: 20px;
+}
+
+.menu-link:hover {
+    background-color: rgba(26, 145, 243, 0.5);
+    color: white;
+}
+
+menu:hover {
+    
+}
+
+.menu-section-title {
+    display: flex;
+    color: rgb(85, 107, 114);
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 15px;
+    border-radius: 20px;
+}
+ 
+.plus-circle {
+    
+    margin-left: auto;
+}
+
+.sliders {
+    margin-left: auto;
+}
+
+.bold {
+    margin-left: 5px;
+    font-weight: 700;
+    
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+hr {
+        position: relative;
+        top: 20px;
+        border: none;
+        height: 7px;
+        background: rgb(196, 193, 193);
+        margin-bottom: 50px;
+}
+
+.menu-section-second-title {
+    display: flex;
+    color: rgb(85, 107, 114);
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+
+
+.service-section {
+    display: block;
+    margin-bottom: 250px;
+    align-items: center;
+    margin-left: auto;
+    margin-left: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.menu-link-section{
+    padding-left: 15px;
+    text-decoration: none;
+    font-size: xx-large;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    color: rgb(85, 107, 114);
+    border-radius: 20px;
+}
+
+.edit {
+    padding-left: 350px;
+    padding-top: 12px;
+    color: rgb(165, 171, 173);
+}
+
+.menu-link-image {
+    margin-right: 18px;
+}
